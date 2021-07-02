@@ -1,0 +1,12 @@
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/polyval-b33bc645d9d445cb.rmeta: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/autodetect.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/clmul.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/soft64.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/mulx.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/libpolyval-b33bc645d9d445cb.rlib: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/autodetect.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/clmul.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/soft64.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/mulx.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/polyval-b33bc645d9d445cb.d: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/autodetect.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/clmul.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/soft64.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/mulx.rs
+
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/lib.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/autodetect.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/clmul.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/backend/soft64.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/polyval-0.4.5/src/mulx.rs:

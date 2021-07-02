@@ -1,0 +1,13 @@
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/pear-d3e05f0c5ef2f244.rmeta: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/libpear-d3e05f0c5ef2f244.rlib: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/pear-d3e05f0c5ef2f244.d: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs:

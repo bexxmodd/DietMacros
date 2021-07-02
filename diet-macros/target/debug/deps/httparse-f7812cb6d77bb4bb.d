@@ -1,0 +1,12 @@
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/httparse-f7812cb6d77bb4bb.rmeta: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/libhttparse-f7812cb6d77bb4bb.rlib: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/bexx/Projects/DietMacros/diet-macros/target/debug/deps/httparse-f7812cb6d77bb4bb.d: /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs /home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs
+
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/lib.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/iter.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/macros.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/mod.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/sse42.rs:
+/home/bexx/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.4.1/src/simd/avx2.rs:
